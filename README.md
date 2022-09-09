@@ -6,7 +6,7 @@
 - 📫 Reach me: @Notaltogethersullen (Telegram)
 - 😄 He/Him
 
-#### Development
+### Development
 <div>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
@@ -17,21 +17,22 @@
   <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="Jest" width="30" height="30"/>
 </div>
 
-#### Bundling & deploy
+### Bundling & deploy
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="30" height="30"/>
 </div>
 
-#### layout
+### layout
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="30" height="30"/>
 </div>
 
-#### VCS
+### VCS
 <div>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
+  <img src="https://iconape.com/wp-content/files/im/370923/svg/370923.svg" alt="Gitlab" width="30" height="30">
 </div>
   
