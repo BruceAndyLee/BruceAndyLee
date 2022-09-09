@@ -17,9 +17,10 @@
   <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="Jest" width="30" height="30"/>
 </div>
 
-### Bundling & deploy
+### Bundling, packaging & deploy
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" width="30" height="30"/>
+  <img src="https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.svg" title="Npm" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="30" height="30"/>
 </div>
