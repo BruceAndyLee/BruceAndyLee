@@ -27,7 +27,7 @@
 
 ### layout
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>
+  <img src="https://icon-library.com/images/css-xxl_10573.png" alt="CSS" width="30" height="30"/>
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="30" height="30"/>
 </div>
 
