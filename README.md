@@ -6,6 +6,10 @@
 - 📫 Reach me: @Notaltogethersullen (Telegram)
 - 😄 He/Him
 
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAndyLee&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=00000000"/>
+</div>
+
 ### Development
 <div>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="30" height="30"/>
