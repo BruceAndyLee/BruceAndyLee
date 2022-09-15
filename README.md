@@ -1,14 +1,11 @@
 ### Hi there 👋
 
+div
 - 🔭 I'm currently working on custom CRM & ERP systems at Lumiprobe
 - 🌱 I'm currently learning Typescript, Docker, Python
 - 💬 Ask me about Javascript, Stephen Fry or music theory
 - 📫 Reach me: @Notaltogethersullen (Telegram)
 - 😄 He/Him
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAndyLee&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=00000000"/>
-</div>
 
 ### Development
 <div>
@@ -39,5 +36,9 @@
 <div>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
   <img src="https://iconape.com/wp-content/files/im/370923/svg/370923.svg" alt="Gitlab" width="30" height="30">
+</div>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAndyLee&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=00000000"/>
 </div>
   
