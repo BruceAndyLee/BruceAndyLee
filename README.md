@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-div
 - 🔭 I'm currently working on custom CRM & ERP systems at Lumiprobe
 - 🌱 I'm currently learning Typescript, Docker, Python
 - 💬 Ask me about Javascript, Stephen Fry or music theory
