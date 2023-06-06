@@ -29,8 +29,10 @@
   <img src="https://iconape.com/wp-content/files/im/370923/svg/370923.svg" alt="Gitlab" width="30" height="30">
 </div>
 
-### Most used languages on the repo
+### Repo stats
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAndyLee&layout=compact&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=00000000"/>
 </div>
-  
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+</div>
