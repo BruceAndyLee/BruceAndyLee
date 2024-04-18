@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on custom CRM & ERP systems at [Lumiprobe](https://www.lumiprobe.com/)
-- 🌱 I'm currently learning Typescript, Team management and interface designing 
+- 🌱 I'm currently getting deep into TDD, project management and backend development 
 - 💬 Ask me about Javascript, Stephen Fry or music theory
 - 📫 Reach me: @Notaltogethersullen (Telegram)
 - 😄 He/Him
