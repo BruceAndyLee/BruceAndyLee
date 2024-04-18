@@ -16,7 +16,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>
   <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="Jest" width="30" height="30"/>
   <img src="https://icon-library.com/images/css-xxl_10573.png" alt="CSS" width="30" height="30"/>
-  <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="30" height="30"/>
 </div>
 
 ### Bundling, packaging, deploy, VCS
